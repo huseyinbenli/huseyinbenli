@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huseyin Benli</h1>
-<h3 align="center">I've been learning web development since a while on Scrimba.</h3>
+<h3 align="center">I've been learning web development on Scrimba.</h3>
 
 - 🌱 I’m currently learning **Node.js and Next.js**
 
